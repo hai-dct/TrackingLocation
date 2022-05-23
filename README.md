@@ -14,6 +14,12 @@ Build a demo app with requirements :
  - Display all local location saved into List View
 ```
 
+## Video
+
+<video width="400" controls>
+	<source src="./img/mov1" type="video/mp4">
+</video>
+
 ## Implementation
 
 ### Setup UI
