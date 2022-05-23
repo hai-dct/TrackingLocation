@@ -18,9 +18,8 @@ Build a demo app with requirements :
 
 ### Setup UI
 
-![](./img/img1.png | width=100) 
-![](./img/img2.png | width=100)
-
+<img src="./img/img1.png" width="400">
+<img src="./img/img2.png" width="400">
 
 ### Setup pods
 
