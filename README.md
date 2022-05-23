@@ -17,7 +17,7 @@ Build a demo app with requirements :
 ## Video
 
 <video width="400" controls>
-	<source src="./img/mov1" type="video/mp4">
+	<source src="./img/mov1.mov" type="video/mp4">
 </video>
 
 ## Implementation
